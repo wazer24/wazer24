@@ -1,7 +1,7 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rakshit%20Waze&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&animation=fadeIn)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=🚀+Building+the+Future+with+Code;🤖+AI%2FML+%26+Deep+Learning;💻+Full+Stack+Development;🎯+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=🤖+AI%2FML+%26+Deep+Learning;💻+Full+Stack+Development;🎯+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 </div>
 
 <br/>
