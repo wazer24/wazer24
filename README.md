@@ -1,4 +1,5 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,72&height=300&section=header&text=RAKSHIT%20WAZE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20)</div>
+# <div align="center">RAKSHIT WAZE</div>
+<div align="center"><strong>Full Stack Developer | AI/ML Engineer | Problem Solver</strong></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;🤖+AI%2FML+%26+Deep+Learning+Expert;💻+Full+Stack+Development+Mastery;🎯+Turning+Ideas+into+Reality" alt="Dynamic Typing Animation" />
