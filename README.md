@@ -14,13 +14,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rakshitwaze">
+  <a href="https://www.linkedin.com/in/rakshit-waze">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/rakshitwaze">
+  <a href="https://x.com/wazer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:rakshitwaze@gmail.com">
+  <a href="mailto:rakshitwaze45@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://drive.google.com/file/d/17V6UDEKauiKMxs3JvfJgXQqNejiyz98H/view?usp=sharing">
@@ -29,7 +29,9 @@
   <a href="https://docs.google.com/document/d/1UnQURHsI2X413sAdxKcGpXhob12MRPY4b9TWzvONKXA/edit?tab=t.0">
     <img src="https://img.shields.io/badge/Proof_of_Work-00C853?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/>
   </a>
-</div>---
+</div>
+
+---
 
 ## 🔭 What I'm Up To
 
@@ -86,6 +88,7 @@
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -111,7 +114,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazer24&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
-</div>---
+</div>
+
+---
 
 ## 📫 Let's Connect!
 
